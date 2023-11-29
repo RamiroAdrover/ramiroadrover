@@ -19,6 +19,14 @@ Here are some ideas to get you started:
 * 👁️ CSS
 * 💽 PostgreSQL, MySQL
 
+### Projects I was a part of:
+* Tetris game using Java
+* Pacman-like game using Java
+* E-commerce with React and MercadoPago Sandbox for payment simulation
+* Admin Dashboard, product management and detailed order viewing for E-commerce using Laravel Framework
+* Social Welfare Enrollment System
+   - Developed a comprehensive system for client enrollment during my university coursework.
+
 📫 How to reach me:
 
 https://www.linkedin.com/in/ramiroadrover/
