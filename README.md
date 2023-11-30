@@ -1,4 +1,5 @@
 ### Hi there 👋 I'm Ramiro 
+I'm a fourth-year student majoring in Ingenieria en Sistemas de Informacion at Universidad Nacional del Sur.
 
 <!--
 **RamiroAdrover/ramiroadrover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
